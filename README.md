@@ -146,6 +146,3 @@ python manage.py runserver 0.0.0.0:8080
 - 额外页面: login, register, forget, center, user-info, shop-*系列
 - 组件: mescroll-uni, uni-popup, zebra-swiper
 
-## 代码重复注意
-- `code/` 目录和 `ershoutushu/`, `mp-weixin/` 是**代码副本**, 修改时应以顶层目录为准
-- `code/` 比 `ershoutushu/` 多一个 `main/admin.py`，其余相同
